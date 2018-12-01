@@ -1,0 +1,9 @@
+Plinko Race
+Created by Daniel James Bedwell
+
+Github files: 
+
+[S Key] or [Down Arrow Key] to increase drop speed.
+[W Key] or [Up Arrow Key] to decrease drop speed.
+[A Key] or [Left Arrow Key] to move left.
+[D Key] or [Right Arrow Key] to move right.

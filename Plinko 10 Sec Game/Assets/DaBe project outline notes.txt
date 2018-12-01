@@ -1,0 +1,29 @@
+Daniel Bedwell's '10 second plinko' game design checklist:
+x player control with tag
+x ui
+x camera control
+x ground
+x background
+x directional light
+x announcement text
+x collision barriers
+x finish line with tag (+3 points)
+x announcement audio
+x music fx
+x tags
+x pickups positive prefabs (+7 points, +1 point each)
+x audio fx
+x particle effects
+x obstacles for fun
+x add 7 pickups
+
+project system integration:
+x game end delay
+x level transition
+x debug, file sorting, and final testing
+
+project turn-in:
+txt file with list of controls and title/author and github link
+1 minute video to explain the game
+github upload
+zip file with github access
